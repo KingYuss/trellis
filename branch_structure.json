@@ -1,0 +1,18 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "feat/issue-471-no-native-strkey-codec-exists-for-encoding-or",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-471-no-native-strkey-codec-exists-for-encoding-or": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "feat/issue-471-no-native-strkey-codec-exists-for-encoding-or",
+    "origin"
+  ]
+}
